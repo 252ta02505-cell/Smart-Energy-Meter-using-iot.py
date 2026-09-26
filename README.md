@@ -1,1 +1,0 @@
-# Smart-Energy-Meter-using-iot.py
